@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ASL-rgb
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Pyhton
-- 💞️ I’m looking to collaborate on IBM
+- 💞️ I’m looking to collaborate on ME
 - 📫 How to reach me newbadface@gmx.at
 
 <!---
